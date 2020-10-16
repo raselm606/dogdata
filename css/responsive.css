@@ -1,0 +1,129 @@
+@media only screen and (min-width: 360px) and (max-width: 640px){
+	.distribution img {
+    width: 100%;
+}
+.counter_box {
+    margin: 0px;
+}
+.tk_counter {
+    font-size: 24px !important;
+}
+.counter_box:after {
+    content: ":";
+    font-size: 38px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.token-call p{
+	margin-bottom: 30px;
+}
+.soft-hard-cap {
+    font-size: 13px;
+}
+.sider-right-btn {
+    text-align: center;
+}
+.sider-right-btn {
+    margin-top: 30px;
+}
+.nav-collap{
+	margin-left: 0px;
+}
+.blog-borad a {
+    margin-top: -142px;
+}
+.llitl-data-img img {
+    margin-bottom: 24px;    
+    height: 42px;
+}
+.lits{
+    line-height: 24px;
+}
+.more-person:after {
+    content: "+2";
+    background: #acd96e;
+    width: 42px;
+    height: 42px;
+    display: inline-block;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 44px;
+    margin-left: -10px;
+    z-index: -1;
+    color: #fff;
+    font-size: 18px;
+    border: 2px solid #fff;
+    margin-top: -10px;
+    position: absolute;
+    right: -31px;
+    top: 10px;
+}
+.llitl-data-img{
+    margin-right: 42px;
+    position: relative;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 568px){
+	.distribution img {
+    width: 100%;
+}
+.token-call p{
+	margin-bottom: 40px;
+}
+.counter_box {
+    margin: 0px;
+}
+.tk_counter {
+    font-size: 24px !important;
+}
+.counter_box:after {
+    content: ":";
+    font-size: 30px;
+    margin-left: 10px;
+}
+.soft-hard-cap {
+    font-size: 13px;
+}
+.sider-right-btn {
+    text-align: center;
+}
+.sider-right-btn {
+    margin-top: 30px;
+}
+.nav-collap{
+	margin-left: 0px;
+}
+.blog-borad a {
+    margin-top: -142px;
+}
+.llitl-data-img{
+    margin-right: 42px;
+    position: relative;
+}
+.llitl-data-img img {
+    margin-bottom: 24px;
+        height: 42px;
+}
+.lits{
+    line-height: 24px;
+}
+.more-person:after {
+    content: "+2";
+    background: #acd96e;
+    width: 42px;
+    height: 42px;
+    display: inline-block;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 44px;
+    margin-left: -10px;
+    z-index: -1;
+    color: #fff;
+    font-size: 18px;
+    border: 2px solid #fff;
+    margin-top: -10px;
+    position: absolute;
+    right: -31px;
+    top: 10px;
+}
+}
